@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Jaime 
 
-<h2> 👩🏽‍💻 About Me </h2>
+<h2> 👨🏽‍💻 About Me </h2>
 
 - 🎓 &nbsp; Per Scholas React Developer
 - ✍️ &nbsp; React Developer
