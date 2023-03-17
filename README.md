@@ -3,7 +3,7 @@
 <h2> 👨🏽‍💻 About Me </h2>
 
 - 🎓 &nbsp; Per Scholas React Developer
-- ✍️ &nbsp; React Developer
+- ✍️ &nbsp; Software Developer
 
 <h2>🛠 Tech Stack</h2>
 
