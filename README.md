@@ -1,14 +1,13 @@
-### Hi 👋, I'm Jaime 
 
-<h2> 👨🏽‍💻 About Me </h2>
+# 🚀 Hi there! 👋 I'm Jaime, 
 
-- 🎓 &nbsp; Per Scholas React Developer
-- ✍️ &nbsp; Software Developer
+Software engineer with experience in full-stack React development and a strong foundation in JavaScript, React, Java and Spring Boot. I've spent the last 15 weeks honing my skills through remote, hands-on technical training, and I'm excited to showcase the results in this progressive portfolio.
 
-<h2>🛠 Tech Stack</h2>
+🛠 Tech Stack
 
-- 🌐 &nbsp; `HTML5` | `CSS3` | `JavaScript` | `React` | `Node.js` | more on the way...
-- 🌱 &nbsp; `SQL` | `Python` | `Java` | `Spring Boot` | more on the way...
+- 🌐 &nbsp; `HTML5` | `CSS3` | `JavaScript` | `React` | `Node.js` | `SQL` | `Python` | `Java` | `Spring Boot` | 
+
+- 🌱 &nbsp; Next.js | TypeScript | More on the way...
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-d-rodriguez/)
