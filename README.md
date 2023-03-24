@@ -11,4 +11,4 @@ Software engineer with experience in full-stack React development and a strong f
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-d-rodriguez/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=JDRGit.JDRGit)
