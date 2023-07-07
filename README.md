@@ -1,7 +1,7 @@
 
 # 🚀 Hi there! 👋 I'm Jaime, 
 
-Software engineer with experience in full-stack React development and a strong foundation in JavaScript, React, Java and Spring Boot. I've spent the last 15 weeks honing my skills through remote, hands-on technical training, and I'm excited to showcase the results in this progressive portfolio.
+Software Developer with experience in full-stack React development and a strong foundation in JavaScript, React, Java and Spring Boot. I've spent the last 15 weeks honing my skills through remote, hands-on technical training, and I'm excited to showcase the results in this progressive portfolio.
 
 🛠 Tech Stack
 
