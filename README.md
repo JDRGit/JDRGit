@@ -1,7 +1,7 @@
 
 # 🚀 Hi there! 👋 I'm Jaime, 
 
-Software Developer with experience in full-stack React development and a strong foundation in JavaScript, React, Java and Spring Boot. I've spent the last 15 weeks honing my skills through remote, hands-on technical training, and I'm excited to showcase the results in this progressive portfolio.
+Software Developer with experience in full-stack React development and a strong foundation in JavaScript, React, Java and Spring Boot. Graduated a 15 weeks bootcamp honing my skills through remote, hands-on technical training, and I'm excited to showcase the results in this progressive portfolio.
 
 🛠 Tech Stack
 
@@ -11,4 +11,4 @@ Software Developer with experience in full-stack React development and a strong 
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-d-rodriguez/)
-![](https://visitor-badge.glitch.me/badge?page_id=JDRGit.JDRGit)
+
