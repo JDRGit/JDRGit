@@ -1,14 +1,18 @@
+# 🚀 Hello, I'm Jaime! 👋
 
-# 🚀 Hi there! 👋 I'm Jaime, 
+I'm a Software Developer with a passion for full-stack development, specializing in React. With a strong foundation in JavaScript, React, Java, and Spring Boot, I've honed my skills through a 15-week intensive bootcamp. I'm eager to showcase my journey and the projects I've developed in this progressive portfolio.
 
-Software Developer with experience in full-stack React development and a strong foundation in JavaScript, React, Java and Spring Boot. Graduated a 15 weeks bootcamp honing my skills through remote, hands-on technical training, and I'm excited to showcase the results in this progressive portfolio.
+## 🛠 Tech Stack
 
-🛠 Tech Stack
+- **Frontend:** `HTML5`, `CSS3`, `JavaScript`, `React`, `Next.js`
+- **Backend:** `Node.js`, `Java`, `Spring Boot`
+- **Database:** `SQL`
+- **Languages:** `Python`, `TypeScript`
 
-- 🌐 &nbsp; `HTML5` | `CSS3` | `JavaScript` | `React` | `Node.js` | `SQL` | `Python` | `Java` | `Spring Boot` | 
+## 🌱 What's Next?
 
-- 🌱 &nbsp; Next.js | TypeScript | More on the way...
+I'm continuously learning and expanding my skill set. Stay tuned for more updates!
 
+## 📫 Connect with Me
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-d-rodriguez/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-d-rodriguez/)
