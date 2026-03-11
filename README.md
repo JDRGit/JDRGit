@@ -1,6 +1,6 @@
 # 🚀 Hello, I'm Jaime! 👋
 
-I'm an **Information Security Analyst** with a background in **full-stack software development** and a strong passion for **cybersecurity, detection engineering, and threat analysis**. My experience combines secure development practices with hands-on security operations, allowing me to approach problems from both a builder’s and defender’s perspective.
+I'm an Information Security Analyst with a background in full-stack software development and a strong passion for cybersecurity, detection engineering, and threat analysis. My experience combines secure development practices with hands-on security operations, allowing me to approach problems from both a builder’s and defender’s perspective.
 
 I currently focus on security operations, alert triage, threat detection, and continuous improvement of security tooling and processes. I also enjoy building technical projects that showcase automation, problem-solving, and practical security use cases.
 
