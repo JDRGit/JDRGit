@@ -18,7 +18,7 @@
 
 `◄ THREAT DETECTION ►` &nbsp;&nbsp; `◄ DETECTION ENGINEERING ►` &nbsp;&nbsp; `◄ SECURITY AUTOMATION ►`
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaime-d-rodriguez&style=for-the-badge&color=00FFD1&label=PROFILE+SCANS)
+![Profile Views](https://komarev.com/ghpvc/?username=JDRGit&style=for-the-badge&color=00FFD1&label=PROFILE+SCANS)
 
 </div>
 
@@ -32,13 +32,13 @@
 
 ```json
 {
-  "handle"         : "jaime_d_rodriguez",
+  "handle"         : "JDRGit",
   "designation"    : "Information Security Analyst",
   "clearance"      : "ELEVATED",
   "threat_model"   : "attacker-informed defense",
   "primary_mission": ["Threat Detection", "Alert Triage", "Detection Engineering"],
   "augmentations"  : ["Full-Stack Development", "Security Automation", "IR Support"],
-  "certs_equipped" : ["CompTIA Security+", "CompTIA CySA+"],
+  "certs_equipped" : ["CompTIA A+", "CompTIA Security+", "CompTIA CySA+"],
   "doctrine"       : "Build what you protect. Protect what you build.",
   "uptime"         : "24/7 — always learning, always hunting",
   "status"         : "🟢 ONLINE"
@@ -97,6 +97,7 @@
 
 ### `[ CERTS ]`
 
+![A+](https://img.shields.io/badge/CompTIA_A%2B-00BFFF?style=for-the-badge&logo=comptia&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA_Security%2B-00BFFF?style=for-the-badge&logo=comptia&logoColor=white)
 ![CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-00BFFF?style=for-the-badge&logo=comptia&logoColor=white)
 
@@ -122,7 +123,7 @@
 ## `▸ PORTFOLIO_FILESYSTEM`
 
 ```
-/jaime-d-rodriguez
+/JDRGit
 │
 ├── /security-ops
 │   ├── detection-rules/          # Custom detection logic & alert tuning
@@ -145,15 +146,15 @@
 ---
 
 ## `▸ SOC_TERMINAL [ LIVE SESSION ]`
- 
+
 ```bash
 ┌──[JDRGit@soc-node-01]─[~/investigations]
 └─$ whoami --full-profile
- 
+
 > resolving operator identity...
 > cross-referencing threat intel feeds...
 > decrypting dossier... ████████████████ 100%
- 
+
 [OUTPUT]──────────────────────────────────────────────────────────
   OPERATOR   : Jaime D. Rodriguez
   ROLE       : Information Security Analyst
@@ -161,16 +162,16 @@
   SESSION    : ACTIVE ✔
   UPTIME     : 24/7 — no downtime logged
 ──────────────────────────────────────────────────────────────────
- 
+
 ┌──[JDRGit@soc-node-01]─[~/investigations]
 └─$ run threat-profile --operator self --classify
- 
+
 > scanning attack surface awareness...
 > mapping detection coverage...
 > correlating MITRE ATT&CK knowledge...
 > compiling output...
 ```
- 
+
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║             ░░  OPERATOR THREAT PROFILE  ░░                      ║
@@ -198,11 +199,11 @@
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
- 
+
 ```bash
 ┌──[JDRGit@soc-node-01]─[~/investigations]
 └─$ tail -f /var/log/operator/activity.log
- 
+
 [2026-03-11 00:00:01] INFO  — Detection rule tuned: lateral movement via RDP
 [2026-03-11 00:00:04] INFO  — Threat hunt initiated: credential harvesting TTPs
 [2026-03-11 00:00:07] WARN  — Anomalous process tree detected: investigating...
