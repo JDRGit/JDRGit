@@ -145,13 +145,13 @@
 ---
 
 ## `▸ SYSTEM_STATS`
-
+ 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaime-d-rodriguez&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=00FFD1&icon_color=FF2D55&text_color=888888&ring_color=00FFD1)
-
-![Streak](https://streak-stats.demolab.com/?user=jaime-d-rodriguez&hide_border=true&background=0A0A0F&ring=00FFD1&fire=FF2D55&currStreakLabel=00FFD1&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=CCCCCC)
-
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDRGit&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=00FFD1&icon_color=FF2D55&text_color=888888&ring_color=00FFD1)
+ 
+![Streak](https://streak-stats.demolab.com/?user=JDRGit&hide_border=true&background=0A0A0F&ring=00FFD1&fire=FF2D55&currStreakLabel=00FFD1&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=CCCCCC)
+ 
 </div>
 
 ---
