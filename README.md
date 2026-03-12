@@ -18,7 +18,6 @@
 
 `◄ THREAT DETECTION ►` &nbsp;&nbsp; `◄ DETECTION ENGINEERING ►` &nbsp;&nbsp; `◄ SECURITY AUTOMATION ►`
 
-![Profile Views](https://komarev.com/ghpvc/?username=JDRGit&style=for-the-badge&color=00FFD1&label=PROFILE+SCANS)
 
 </div>
 
