@@ -144,15 +144,74 @@
 
 ---
 
-## `▸ SYSTEM_STATS`
+## `▸ SOC_TERMINAL [ LIVE SESSION ]`
  
-<div align="center">
+```bash
+┌──[JDRGit@soc-node-01]─[~/investigations]
+└─$ whoami --full-profile
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDRGit&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=00FFD1&icon_color=FF2D55&text_color=888888&ring_color=00FFD1)
+> resolving operator identity...
+> cross-referencing threat intel feeds...
+> decrypting dossier... ████████████████ 100%
  
-![Streak](https://streak-stats.demolab.com/?user=JDRGit&hide_border=true&background=0A0A0F&ring=00FFD1&fire=FF2D55&currStreakLabel=00FFD1&sideLabels=888888&dates=555555&currStreakNum=FFFFFF&sideNums=CCCCCC)
+[OUTPUT]──────────────────────────────────────────────────────────
+  OPERATOR   : Jaime D. Rodriguez
+  ROLE       : Information Security Analyst
+  NODE       : soc-node-01
+  SESSION    : ACTIVE ✔
+  UPTIME     : 24/7 — no downtime logged
+──────────────────────────────────────────────────────────────────
  
-</div>
+┌──[JDRGit@soc-node-01]─[~/investigations]
+└─$ run threat-profile --operator self --classify
+ 
+> scanning attack surface awareness...
+> mapping detection coverage...
+> correlating MITRE ATT&CK knowledge...
+> compiling output...
+```
+ 
+```
+╔══════════════════════════════════════════════════════════════════╗
+║             ░░  OPERATOR THREAT PROFILE  ░░                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  THREAT_ACTOR_TYPE  : [ DEFENDER ]  ████████████████████  100%  ║
+║  DETECTION_COVERAGE : [ HIGH     ]  ██████████████████░░   92%  ║
+║  ADVERSARY_EMPATHY  : [ ELEVATED ]  █████████████████░░░   85%  ║
+║  AUTOMATION_INDEX   : [ ACTIVE   ]  ████████████████░░░░   80%  ║
+║  CODE_PROFICIENCY   : [ FLUENT   ]  ██████████████████░░   90%  ║
+║  INCIDENT_RESPONSE  : [ ONLINE   ]  ██████████████████░░   88%  ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  KNOWN_TTPS    : Credential theft ◈ Infostealer analysis        ║
+║                  Ransomware triage ◈ Identity attack chains     ║
+║                  LOLBins ◈ Process injection ◈ Lateral movement ║
+║                                                                  ║
+║  MITRE_COVERAGE: TA0001 TA0002 TA0003 TA0004 TA0005 TA0006      ║
+║                  TA0007 TA0008 TA0009 TA0010 TA0011 [+MORE]     ║
+║                                                                  ║
+║  THREAT_LEVEL  : ██ TO ADVERSARIES   CLASSIFICATION: ALPHA      ║
+║  CLEARANCE     : [████████████████████] ELEVATED                ║
+║  VERDICT       : ✔ AUTHORIZED — PROCEED WITH CAUTION            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+ 
+```bash
+┌──[JDRGit@soc-node-01]─[~/investigations]
+└─$ tail -f /var/log/operator/activity.log
+ 
+[2026-03-11 00:00:01] INFO  — Detection rule tuned: lateral movement via RDP
+[2026-03-11 00:00:04] INFO  — Threat hunt initiated: credential harvesting TTPs
+[2026-03-11 00:00:07] WARN  — Anomalous process tree detected: investigating...
+[2026-03-11 00:00:09] INFO  — Automation playbook triggered: auto-triage active
+[2026-03-11 00:00:12] INFO  — Alert closed: benign confirmed. MTTD: 00:04:31
+[2026-03-11 00:00:15] INFO  — New repo pushed: detection-engineering-toolkit
+[2026-03-11 00:00:18] INFO  — Status: ALL SYSTEMS NOMINAL ✔
+[2026-03-11 00:00:21] INFO  — Operator online. Watching the wire. 👁
+```
 
 ---
 
